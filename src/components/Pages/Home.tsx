@@ -76,7 +76,7 @@ const Home = () => {
                     initial="hidden"
                     animate="visible"
                     variants={staggerContainer}
-                    className="relative z-10 text-center text-white px-4 pt-50 sm:px-6 md:px-8 max-w-4xl mx-auto w-full"
+                    className="relative z-10 text-center text-white px-4 pt-70 sm:px-6 md:px-8 max-w-4xl mx-auto w-full"
                 >
                     <motion.h1
                         variants={fadeInUp}
