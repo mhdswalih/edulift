@@ -45,20 +45,20 @@ const Home = () => {
         <div>
             <div className="relative">
                 {/* Sticky Navbar */}
-                <div className="sticky top-0 left-0 z-20 w-full">
+                <div className="sticky top-0  left-0 z-20 w-full">
                     <div className="max-w-5xl mx-auto">
                         <Navbar />
                     </div>
                 </div>
 
                 {/* Hero Section */}
-                <section className="relative flex justify-center items-center h-screen -mt-24">
+                <section className="relative flex justify-center items-center h-screen -mt-30">
                     {/* Background Image */}
                     <motion.img
                         initial={{ scale: 1.1 }}
                         animate={{ scale: 1 }}
                         transition={{ duration: 1.2, ease: "easeOut" }}
-                        className="absolute inset-0 w-full h-full object-cover"
+                        className="absolute  inset-0 w-full h-full "
                         src={mainImg}
                         alt="Hero"
                     />
