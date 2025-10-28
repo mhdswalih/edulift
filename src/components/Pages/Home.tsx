@@ -1,7 +1,7 @@
 import { motion, type Variants } from 'framer-motion'
 import { useState } from 'react'
 import Navbar from "../Navbar/Navbar"
-import mainImg from '../../assets/Img/kids-being-part-sunday-school.jpg'
+import mainImg from '../../assets/Img/entrepreneurs-meeting-office.jpg'
 import Footer from "../Footer/Footer"
 import { ImWhatsapp } from 'react-icons/im'
 
