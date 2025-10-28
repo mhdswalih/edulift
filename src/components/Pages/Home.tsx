@@ -45,14 +45,14 @@ const Home = () => {
     return (
         <div className="w-full">
             {/* Sticky Navbar */}
-            <div className="sticky top-0 left-0 z-20 w-full">
+            <div className="absolute   z-20 w-full">
                 <div className="max-w-7xl mx-auto px-4">
                     <Navbar />
                 </div>
             </div>
 
             {/* Hero Section */}
-            <div className="relative flex justify-center items-center min-h-screen h-screen w-full -mt-70 sm:-mt-30 md:-mt-30">
+            <div className="relative flex justify-center items-center min-h-screen h-screen w-full">
                 {/* Background Image */}
                 <motion.img
                     initial={{ scale: 1.1 }}
