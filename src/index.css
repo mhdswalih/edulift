@@ -1,5 +1,5 @@
 body {
-    padding: 0;
-    margin: 0;
+  scroll-padding-top: 80px; /* equal to navbar height */
 }
+
 @import "tailwindcss";
