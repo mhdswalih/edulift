@@ -52,7 +52,7 @@ const Home = () => {
             </div>
 
             {/* Hero Section */}
-            <div className="relative flex justify-center items-center min-h-screen h-screen w-full -mt-70 sm:-mt-10 md:-mt-30">
+            <div className="relative flex justify-center items-center min-h-screen h-screen w-full -mt-70 sm:-mt-70 md:-mt-70">
                 {/* Background Image */}
                 <motion.img
                     initial={{ scale: 1.1 }}
@@ -76,7 +76,7 @@ const Home = () => {
                     initial="hidden"
                     animate="visible"
                     variants={staggerContainer}
-                    className="relative z-10 text-center text-white px-4 sm:px-6 md:px-8 max-w-4xl mx-auto w-full"
+                    className="relative z-10 text-center text-white px-4 pt-50 sm:px-6 md:px-8 max-w-4xl mx-auto w-full"
                 >
                     <motion.h1
                         variants={fadeInUp}
