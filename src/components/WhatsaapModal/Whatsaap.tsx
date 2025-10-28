@@ -70,7 +70,7 @@ const Whatsapp = ({ isOpen, onClose }: WhatsappModalProps) => {
                         <motion.button
                             whileHover={{ scale: 1.02, x: 5 }}
                             whileTap={{ scale: 0.98 }}
-                            onClick={() => handleWhatsAppClick('919876543210')}
+                            onClick={() => handleWhatsAppClick('919605152925')}
                             className="w-full p-4 bg-linear-to-r from-green-50 to-green-100 hover:from-green-100 hover:to-green-200 rounded-xl border-2 border-green-200 hover:border-green-300 transition-all duration-300 text-left group"
                         >
                             <div className="flex items-center justify-between">
@@ -79,7 +79,7 @@ const Whatsapp = ({ isOpen, onClose }: WhatsappModalProps) => {
                                         <span className="text-2xl">🇮🇳</span>
                                         <span className="font-semibold text-gray-900">India</span>
                                     </div>
-                                    <p className="text-sm text-gray-600">+91 98765 43210</p>
+                                    <p className="text-sm text-gray-600">+91 9605152925</p>
                                 </div>
                                 <ImWhatsapp className="text-2xl text-green-600 group-hover:scale-110 transition-transform" />
                             </div>
@@ -89,7 +89,7 @@ const Whatsapp = ({ isOpen, onClose }: WhatsappModalProps) => {
                         <motion.button
                             whileHover={{ scale: 1.02, x: 5 }}
                             whileTap={{ scale: 0.98 }}
-                            onClick={() => handleWhatsAppClick('971501234567')}
+                            onClick={() => handleWhatsAppClick('971526385809')}
                             className="w-full p-4 bg-linear-to-r from-green-50 to-green-100 hover:from-green-100 hover:to-green-200 rounded-xl border-2 border-green-200 hover:border-green-300 transition-all duration-300 text-left group"
                         >
                             <div className="flex items-center justify-between">
@@ -98,7 +98,7 @@ const Whatsapp = ({ isOpen, onClose }: WhatsappModalProps) => {
                                         <span className="text-2xl">🇦🇪</span>
                                         <span className="font-semibold text-gray-900">UAE</span>
                                     </div>
-                                    <p className="text-sm text-gray-600">+971 50 123 4567</p>
+                                    <p className="text-sm text-gray-600">+971 526385809</p>
                                 </div>
                                 <ImWhatsapp className="text-2xl text-green-600 group-hover:scale-110 transition-transform" />
                             </div>

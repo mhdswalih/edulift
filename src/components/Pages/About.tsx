@@ -56,9 +56,10 @@ function About() {
                             <div className="flex-1 w-full">
                                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Our Mission</h2>
                                 <p className="text-gray-600 leading-relaxed text-base md:text-lg">
-                                    At EduLift, we are committed to providing exceptional educational experiences
-                                    that inspire young minds and prepare them for a successful future. We believe
-                                    every child deserves access to quality education that nurtures their unique talents.
+                                  Our mission is to deliver high-quality educational support to learners at every stage of their academic career—from coaching and tuition to degrees, post-graduation, NIOS, PhD, and MBA programs etc .
+                                   By offering affordable and flexible learning options, we ensure that students of all backgrounds have the opportunity to achieve their educational goals. At EDULIFT, we are dedicated to fostering intellectual growth,
+                                    critical thinking, and personal development, enabling our students to thrive in a rapidly evolving world.
+
                                 </p>
                             </div>
                         </div>
